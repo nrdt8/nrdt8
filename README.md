@@ -3,7 +3,7 @@
 
 ![Funny GIF](images/cat.gif)
 
-My project:
+# My project:
 
 <h3>🎬 CinemaTicket</h3>
 
